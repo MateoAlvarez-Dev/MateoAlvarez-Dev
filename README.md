@@ -40,8 +40,3 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center">📫 Where to find me 📫</h2>
----
-| **Social Network** | **Id** |
-| --- | --- |
-| **LinkedIn** | **<a href="https://www.linkedin.com/in/mateo-alvarez-yepes-988033250/" style="color: gray; text-decoration: none;">@Mateo Alvarez Yepes</a>** |
