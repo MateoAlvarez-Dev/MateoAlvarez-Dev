@@ -40,7 +40,12 @@ Here are some ideas to get you started:
 </p>
 
 
+<h4 align="center">🔍 Where you can find me 🔍</h4>
+<center>
+
 | Social Network  | Link |
 | ------------- | ------------- |
 | **LinkedIn**  | <a href="https://www.linkedin.com/in/mateo-alvarez-yepes-988033250/" style="color: gray;text-decoration:none;">Click Here</a>  |
 | **HackerRank**  | <a href="https://www.hackerrank.com/profile/matheoz2003" style="color: gray;text-decoration:none;">Click Here</a>  |
+
+</center>
