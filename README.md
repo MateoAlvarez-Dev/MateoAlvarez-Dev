@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">¡Welcome to my profile!🦾</h1>
+<h1 align="center">¡Welcome to my profile!</h1>
 
 I'm a fullstack developer with intermediate skills in both Spring Boot and Java, as well as Node.js, enabling me to build robust and scalable systems for various applications. Additionally, I have collaborated on developing an Android application using Flutter and Dart, thereby expanding my knowledge and skills in cross-platform development.
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">⚡ My Skills</h2>
 
 <h4 align="center">Git - HTML</h4>
 <p align="center">
