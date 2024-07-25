@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">¡Welcome to my profile!</h1>
 
-<p style="text-align:center;">I'm a fullstack developer with intermediate skills in both Spring Boot and Java, as well as Node.js, enabling me to build robust and scalable systems for various applications. Additionally, I have collaborated on developing an Android application using Flutter and Dart, thereby expanding my knowledge and skills in cross-platform development.</p>
+<p align="center">I'm a fullstack developer with intermediate skills in both Spring Boot and Java, as well as Node.js, enabling me to build robust and scalable systems for various applications. Additionally, I have collaborated on developing an Android application using Flutter and Dart, thereby expanding my knowledge and skills in cross-platform development.</p>
 
 <h2 align="center">⚡ My Skills ⚡</h2>
 
